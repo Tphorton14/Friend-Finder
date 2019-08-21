@@ -1,4 +1,5 @@
-const friendsArray = [
+module.exports = {
+ friendsArray = [
     {
         "name": "Ben",
         "photo": "https://en.wikipedia.org/wiki/Ben_Stiller#/media/File:Ben_Stiller_May_2019.jpg",
@@ -31,4 +32,4 @@ const friendsArray = [
 
 ];
 
-module.exports = friendsArray;
+}
