@@ -31,4 +31,4 @@ const friends = [
 
 ]
 
-module.exports = friends;
+module.export = friends;
